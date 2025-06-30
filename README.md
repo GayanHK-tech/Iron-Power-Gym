@@ -19,7 +19,9 @@ A modern, responsive fitness website created for Iron Power Gym. This site is de
 
 ## 📸 Screenshots
 
-_Add screenshots here if needed._
+### 🏠 Homepage
+![Homepage Screenshot](img/screencapture-file-C-Users-Gayan-AppData-Local-Temp-Rar-EXa1892-33964-rartemp-Gayan-project-update-index-html-2025-06-29-18_05_43.png)
+
 
 
 
